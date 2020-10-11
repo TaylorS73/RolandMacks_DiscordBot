@@ -1,0 +1,22 @@
+#Sun Jun 10 20:28:55 CEST 2018
+cleverbotAPIKey=YOURCLEVERBOTAPIKEY
+botToken=NzQ0NjUyOTYzOTAxMDc5NjYy.XzmWHQ.lDrau0b5cdynSr6m29wG_0IvDKE
+twitchChannel={}
+selfAssignedRolesList={}
+botActivity=type \!help for help
+badWords={}
+twitchDisabled=[]
+userEventDisabled=[]
+bwDisabled=[]
+cleverBotDisabled=[]
+musicChannel={}
+userEventChannel={}
+streamerList={}
+prefixes={}
+botOwner=744652963901079662
+autoRoleList={}
+embedColor=\#0088FF
+userEventsMessages={}
+serverSBDisabled=[]
+shards=1
+guildsLogChannelId=LOGCHANNELIDHERE

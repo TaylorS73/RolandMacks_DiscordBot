@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c15734d-3daf-47ae-9e65-6c831199a6a2" name="Default Changelist" comment="all">
+      <change afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/bluebot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.blue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infoFile.blue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/JDA-3.3.0_271-withDependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/MainBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/UI/MainUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/UI/UIController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/fun/CatCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/fun/CyanideHapinessCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/fun/DogCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/fun/GifCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/fun/RateCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/fun/XKCDCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/fun/YoMommaJokeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/fun/quickreactions/IDGFCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/fun/quickreactions/KappaCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/fun/quickreactions/NopeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/fun/quickreactions/WatCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/CallCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/CustomEmbedCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/GitHubCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/InfoCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/InviteCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/MultiPollCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/PlaySoundCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/QuickPollCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/RankCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/RemoveSoundCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/ServerCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/SteamStatusCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/SteamUserInfoCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/TrackTwitchCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/UntrackCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/misc/WhoisCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/moderation/BadWordCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/moderation/DisableListenerCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/moderation/EnableListenerCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/moderation/SetAutoRoleCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/moderation/SetPrefixCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/moderation/SpecificChannelCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/moderation/UserEventsMessagesCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/owner/AnnouncementCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/owner/SetGameCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/owner/SetOnlineStateCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/owner/ShutDownCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/utility/ClearCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/utility/HelpCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/utility/JoinLeaveMessageContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/utility/PingCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/utility/SayCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/utility/SayHiCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/utility/SettingsCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/commands/utility/WhoAreYouCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/CommandParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/JSONSaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/LoadingProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/LogSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/SaveThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/UserEventsMessagesParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/listeners/BadWordsListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/listeners/BannedServersListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/listeners/CleverbotListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/listeners/EmptyVCListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/listeners/GuildsListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/listeners/MessageReceivedListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/listeners/TwitchListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/listeners/UserJoinLeaveListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/listeners/VCJoinedListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bluebot/utils/soundUtils/AudioPlayerSendHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/bluebotscene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ikBHBpTAS0HuDXoTXEmmlfW4a6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c15734d-3daf-47ae-9e65-6c831199a6a2" name="Default Changelist" comment="" />
+      <created>1602441619844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602441619844</updated>
+      <workItem from="1602441620937" duration="85000" />
+      <workItem from="1602443941950" duration="164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="th" />
+    <MESSAGE value="all" />
+    <option name="LAST_COMMIT_MESSAGE" value="all" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1602444015154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602444015154" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1602441632653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602441632653" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602441700995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602441700995" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602443979890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602443979890" />
+  </component>
+</project>
